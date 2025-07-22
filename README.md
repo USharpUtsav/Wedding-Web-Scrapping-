@@ -26,9 +26,10 @@ Clone the repository or download the source files.
 Install the dependencies:
 
 _##Running the Project_
+
 1.Open a terminal or command prompt.
 
-2.Navigate to the wedvenue folder inside the extracted intern_parsedom folder:
+2.Navigate to the wedvenue folder inside the extracted folder:
 
 3.Run the command :-scrapy crawl venue_spider -o weddingvenues.csv
 
